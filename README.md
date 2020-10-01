@@ -7,6 +7,20 @@ Join the [slack](https://join.slack.com/t/bridgedhq/shared_invite/zt-h9eyanie-U_
 working as general contributor is always welcome, any PRs are welcome.
 
 
+## CAN I BE INSIDER COLLABORATOR?
+> Sure, why not?
+
+Minumal requirements for collaborators
+- more than 3 years of expirence on Typescript and Python
+- more than 1 years of expirence on Flutter
+- more than 5 years of expirence on frontend development (anything, in total.)
+- basic knowledge & ability for ui/ux design
+- short resume or portfolio that describes you the best
+- your github url
+
+We will contact you back in 48 Hours, and have a short video conference introducing yourself.
+
+
 ## GENERAL LICENSE
 The License of opensource project (MIT License) under github.com/bridgedxyz, the organization Bridged can change the License explicitly at any curcumstances.
 We Guarantee that all opensource started project will remain open for read (clone) and write (via PR) forever, but the license can be changed, and we will notify all contributors. the ownership of organization Bridged, and it's source code, projects, assets are owned by [softmarshmallow](github.com/softmarshmallow) <woojoo@softmarshmallow.com> by 90%. And softmarshmallow has the right to monetize as products under Bridged's distribution channel.
