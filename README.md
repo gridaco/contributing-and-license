@@ -26,3 +26,8 @@ The License of opensource project (MIT License) under github.com/bridgedxyz, the
 We Guarantee that all opensource started project will remain open for read (clone) and write (via PR) forever, but the license can be changed, and we will notify all contributors. the ownership of organization Bridged, and it's source code, projects, assets are owned by [softmarshmallow](github.com/softmarshmallow) <woojoo@softmarshmallow.com> by 90%. And softmarshmallow has the right to monetize as products under Bridged's distribution channel.
 
 This license aggreement is applied to all bridged's opensource projects, and by contributing to it, the contributor admits this agreement. and cannot file a legal issue about it.
+
+## EXPLICITLY BLOCKED USERS/COMPANIES
+We are restricting usage of our community-drivven technologies to be used by enterprises that are closed-source based.
+
+list of blocked companies avilable at (NOTALLOWED.md)[./NOTALLOWED.md]
