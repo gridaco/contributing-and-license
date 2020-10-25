@@ -8,3 +8,5 @@
 - Avocode
 - Zeplin
 - Bubble.io
+- animaapp.com
+- abstract
