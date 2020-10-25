@@ -30,4 +30,4 @@ This license aggreement is applied to all bridged's opensource projects, and by 
 ## EXPLICITLY BLOCKED USERS/COMPANIES
 We are restricting usage of our community-drivven technologies to be used by enterprises that are closed-source based.
 
-list of blocked companies avilable at (NOTALLOWED.md)[./NOTALLOWED.md]
+list of blocked companies avilable at [NOTALLOWED.md](./NOTALLOWED.md)
