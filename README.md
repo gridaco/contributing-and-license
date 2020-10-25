@@ -3,7 +3,7 @@ contribution guideline and license documentations
 
 
 ## GENERAL CONTRIBUTION
-Join the [slack](https://join.slack.com/t/bridgedhq/shared_invite/zt-h9eyanie-U_t2XB1mrzRxcPww306aCA)) channel, ask admin for collaborator right.
+Join the [slack](https://join.slack.com/t/bridgedhq/shared_invite/zt-h9eyanie-U_t2XB1mrzRxcPww306aCA) channel, ask admin for collaborator access.
 working as general contributor is always welcome, any PRs are welcome.
 
 
