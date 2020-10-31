@@ -7,6 +7,10 @@ Join the [slack](https://join.slack.com/t/bridgedhq/shared_invite/zt-h9eyanie-U_
 working as general contributor is always welcome, any PRs are welcome.
 
 
+## Jobs & Seats
+readmore [here](https://www.notion.so/bridgedxyz/Collaborators-Recruiting-4ccbc1540375499da30012c5c6b07e26) for finding your place in bridged ecosystem
+
+
 ## CAN I BE INSIDER COLLABORATOR?
 > Sure, why not?
 
