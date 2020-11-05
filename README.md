@@ -26,10 +26,11 @@ We will contact you back in 48 Hours, and have a short video conference introduc
 
 
 ## GENERAL LICENSE
-The License of opensource project (MIT License) under github.com/bridgedxyz, the organization Bridged can change the License explicitly at any curcumstances.
-We Guarantee that all opensource started project will remain open for read (clone) and write (via PR) forever, but the license can be changed, and we will notify all contributors. the ownership of organization Bridged, and it's source code, projects, assets are owned by [softmarshmallow](github.com/softmarshmallow) <woojoo@softmarshmallow.com> by 90%. And softmarshmallow has the right to monetize as products under Bridged's distribution channel.
+The License of opensource project type 1 ([MIT License](./LICENSE_MIT)) under github.com/bridgedxyz, We Guarantee that all opensource started project will remain open for read (clone) and write (via PR) forever, but the license can be changed and re-released, and we will notify all contributors. 
 
-This license aggreement is applied to all bridged's opensource projects, and by contributing to it, the contributor admits this agreement. and cannot file a legal issue about it.
+The License of opensource project type 2 ([Bridged Standard Lincense](./LICENSE_BRIDGED_STANDARD)) the ownership of organization Bridged, and it's source code, projects, assets are owned by [softmarshmallow](github.com/softmarshmallow) <woojoo@softmarshmallow.com> by 90%. And softmarshmallow has the right to monetize as products under Bridged's distribution channel. The type 2 License indicates all sources openned, but it cannot be monetized by any enterprises / organizations. Individuals can monetize with under this license.
+
+This license aggreement is applied to all bridged's opensource projects, and by contributing to it, the contributor admits this agreement.
 
 ## EXPLICITLY BLOCKED USERS/COMPANIES
 We are restricting usage of our community-drivven technologies to be used by enterprises that are closed-source based.
