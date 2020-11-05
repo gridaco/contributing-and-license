@@ -3,12 +3,13 @@ contribution guideline and license documentations
 
 
 ## GENERAL CONTRIBUTION
+### Join the community
 Join the [slack](https://join.slack.com/t/bridgedxyz/shared_invite/zt-ipg9ia6t-doDSrJKO7ofj2_Skv8WRlA) channel, ask admin for collaborator access.
 working as general contributor is always welcome, any PRs are welcome.
 
 
 ## Jobs & Seats
-readmore [here](https://www.notion.so/bridgedxyz/Collaborators-Recruiting-4ccbc1540375499da30012c5c6b07e26) for finding your place in bridged ecosystem
+readmore [here](https://together.bridged.xyz) for finding your place in bridged ecosystem
 
 
 ## CAN I BE INSIDER COLLABORATOR?
