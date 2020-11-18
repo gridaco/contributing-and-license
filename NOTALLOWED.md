@@ -10,3 +10,4 @@
 - Bubble.io
 - animaapp.com
 - abstract
+- lokalise
