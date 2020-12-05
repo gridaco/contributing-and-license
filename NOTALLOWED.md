@@ -11,3 +11,4 @@
 - animaapp.com
 - abstract
 - lokalise
+- xd2sketch
