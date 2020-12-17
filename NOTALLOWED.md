@@ -12,3 +12,4 @@
 - abstract
 - lokalise
 - xd2sketch.com
+- [phrase.com](https://phrase.com)
