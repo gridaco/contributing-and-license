@@ -3,8 +3,8 @@ contribution guideline and license documentations
 
 
 ## GENERAL CONTRIBUTION
-### Join the community
-Join the [slack](https://join.slack.com/t/bridgedxyz/shared_invite/zt-k1ssihl3-9_5GU0upfwPvdzerqLuT1Q) channel, ask admin for collaborator access.
+### Join the [community](https://www.notion.so/bridgedxyz/Bridged-OSS-Community-c6983f668e3e4204aed8856da0e73483)
+Join the [slack](https://www.notion.so/bridgedxyz/Bridged-OSS-Community-c6983f668e3e4204aed8856da0e73483) channel, ask admin for collaborator access.
 working as general contributor is always welcome, any PRs are welcome.
 
 
